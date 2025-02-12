@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ControlSpinner</string>
+    <string name="txt_Introduce_el_numero_1">Introduce el número 1</string>
+    <string name="txt_Introduce_el_numero_2">Introduce el número 2</string>
+    <string name="txt_Sumar">Sumar</string>
+    <string name="txt_Restar">Restar</string>
+    <string name="txt_Calcular">Calcular</string>
+    <string name="txt_Resultado">Resultado</string>
+    <string name="mensaje">"Selecciona una opción y llena \nlos campos"</string>
+    <string name="mensajeSpinner">Selecciona una opción</string>
+</resources>
